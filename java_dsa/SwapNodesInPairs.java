@@ -7,6 +7,6 @@ public class SwapNodesInPairs {
     }
     static void swapPairs(int head) {
         Deque<Integer> stk = new ArrayDeque<Integer>();
-        stk.
+        //stk.
     }
 }
