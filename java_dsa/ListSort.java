@@ -15,6 +15,6 @@ public class ListSort {
         l.sort(c);
         System.out.println(l);
         
-        System.out.println(Integer.bitCount(6));
+        System.out.println(Integer.bitCount(4));
     }
 }
